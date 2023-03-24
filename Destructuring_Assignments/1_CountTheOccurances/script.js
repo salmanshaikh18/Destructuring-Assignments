@@ -14,4 +14,4 @@ function wordCountGenerator(inputString) {
     console.log(map)
 }
 
-wordCountGenerator("salman shaikh is dk skdjf")
+wordCountGenerator("salman shaikh is the full stack web developer, Salman")
